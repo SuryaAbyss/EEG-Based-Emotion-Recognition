@@ -3,14 +3,10 @@
 
 ![EEG Signal Overview](electronics-12-02707-g001.png)
 
----
-
-![Stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/yourusername/your-repo-name?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/yourusername/your-repo-name?style=for-the-badge)
-![License](https://img.shields.io/github/license/yourusername/your-repo-name?style=for-the-badge)
-
----
+##
+EEG Animation Preview
+> EEG Signal Activity Visualized
+![EEG Waves](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 ## 🎬 Demo Animation
 
