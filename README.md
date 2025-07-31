@@ -6,7 +6,7 @@
 ##
 EEG Animation Preview
 > EEG Signal Activity Visualized
-![EEG Waves](https://tenor.com/3mFj.gif)
+![EEG Waves](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tiYnBhOGYwNjNvYnBxY3gxajcyNG5vM2V2a2xqbHl0OTV6OWhjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44QzsOLXxcrigdgI/giphy.gif)
 
 ## 🎬 Demo Animation
 
